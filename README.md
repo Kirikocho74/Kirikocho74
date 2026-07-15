@@ -5,6 +5,7 @@
 ## 💫 Sobre mí:
 
 🎓 **Estudiante de Ingeniería Informática**.
+
 🛡️ **Desarrollador Web** en proceso.
 
 🚀 Apasionado por la tecnología y la innovación, disfruto diseñar soluciones eficientes que integren buenas prácticas de desarrollo y seguridad.
